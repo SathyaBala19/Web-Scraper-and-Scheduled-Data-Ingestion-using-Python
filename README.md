@@ -1,14 +1,5 @@
 # Web-Scraper-and-Scheduled-Data-Ingestion-using-Python
 
-# GitHub Repository Title
-
-**Web Scraper and Scheduled Data Ingestion using Python**
-
----
-
-# README.md
-
-````md
 # Web Scraper and Scheduled Data Ingestion using Python
 
 ## Project Overview
@@ -49,7 +40,7 @@ web-scraper-scheduled-ingestion/
 ├── logs/
 ├── requirements.txt
 └── README.md
-````
+
 
 ---
 

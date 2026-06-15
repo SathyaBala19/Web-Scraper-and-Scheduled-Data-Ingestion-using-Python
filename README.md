@@ -1,7 +1,5 @@
 # Web-Scraper-and-Scheduled-Data-Ingestion-using-Python
 
-# Web Scraper and Scheduled Data Ingestion using Python
-
 ## Project Overview
 
 This project demonstrates how to build a simple web scraping and scheduled data ingestion pipeline using Python.

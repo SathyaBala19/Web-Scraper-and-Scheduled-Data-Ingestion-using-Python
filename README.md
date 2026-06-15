@@ -38,7 +38,7 @@ web-scraper-scheduled-ingestion/
 ├── logs/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -61,7 +61,6 @@ web-scraper-scheduled-ingestion/
 ```bash
 git clone https://github.com/your-username/web-scraper-scheduled-ingestion.git
 cd web-scraper-scheduled-ingestion
-```
 
 ### Create Virtual Environment
 

@@ -165,8 +165,3 @@ B.Tech Artificial Intelligence and Data Science
 Karpagam College of Engineering
 
 Coimbatore, Tamil Nadu
-
-```
-
-This README looks like a student project submission while still being professional enough for GitHub and your portfolio.
-```

@@ -158,7 +158,7 @@ By completing this project, you will understand:
 
 ## Author
 
-Sathya Bala
+Sathya Bala B
 
 B.Tech Artificial Intelligence and Data Science
 
